@@ -1,0 +1,5 @@
+1) Observe overview of an conference through provided attachment.
+2) Plan and map the design of provided information for landing page.
+3) Use figma for UI/UX
+4) Convert the design with coding through (HTML, CSS, JS, React etc). Note : not auto conversion, you have to do code yourself
+5) At last push the code on your GitHub repo and share it along with figma design on mail (support@omwaytech.com)
