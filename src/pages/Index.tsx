@@ -12,20 +12,33 @@ const Index = () => {
     <div className="min-h-screen bg-background">
       <Navigation />
       <main>
+        {/* For Hero Page   */}
         <section id="home">
           <Hero />
         </section>
+
+        {/* For Speaker page */}
         <section id="speakers">
           <Speakers />
         </section>
+
+         {/* For Schedule Page  */}
         <section id="schedule">
           <Schedule />
         </section>
+
+        {/* For Price Page  */}
         <section id="pricing">
           <Pricing />
         </section>
+
+        {/* For Testimonials  */}
         <Testimonials />
+
+        {/* For FAQ Section  */}
         <FAQ />
+
+        {/* For Contact Form Page  */}
         <section id="contact">
           <Contact />
         </section>
