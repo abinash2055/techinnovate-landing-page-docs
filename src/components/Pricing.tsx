@@ -18,6 +18,7 @@ const pricingTiers = [
     ],
     popular: false
   },
+
   {
     name: "Student",
     price: "$150",
@@ -32,6 +33,7 @@ const pricingTiers = [
     ],
     popular: false
   },
+
   {
     name: "Early Bird",
     price: "$299",
@@ -48,6 +50,7 @@ const pricingTiers = [
     ],
     popular: true
   },
+  
   {
     name: "Standard",
     price: "$399",

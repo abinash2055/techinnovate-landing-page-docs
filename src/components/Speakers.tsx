@@ -9,6 +9,7 @@ const speakers = [
     bio: "Leading researcher in machine learning with 15 years of experience.",
     image: "https://images.unsplash.com/photo-1494790108755-2616b332c00e?w=300&h=300&fit=crop&crop=face"
   },
+
   {
     name: "Mr. Raj Patel",
     title: "CTO",
@@ -16,6 +17,7 @@ const speakers = [
     bio: "Pioneer in robotics automation and AI integration.",
     image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=300&fit=crop&crop=face"
   },
+  
   {
     name: "Ms. Elena Garcia",
     title: "Blockchain Specialist",

@@ -22,6 +22,7 @@ const scheduleData = [
       }
     ]
   },
+
   {
     date: "March 16",
     sessions: [
@@ -34,6 +35,7 @@ const scheduleData = [
       }
     ]
   },
+  
   {
     date: "March 17",
     sessions: [
