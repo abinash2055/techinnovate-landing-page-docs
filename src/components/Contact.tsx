@@ -63,7 +63,7 @@ export default function Contact() {
             Have questions? We're here to help make your TechInnovate experience amazing
           </p>
         </div>
-        
+
         <div className="grid lg:grid-cols-2 gap-12 max-w-6xl mx-auto">
           {/* Contact Information */}
           <div className="space-y-8">
@@ -85,7 +85,7 @@ export default function Contact() {
                 ))}
               </div>
             </div>
-            
+
             {/* Social Media */}
             <div>
               <h3 className="text-2xl font-bold mb-6">Follow Us</h3>
@@ -103,7 +103,7 @@ export default function Contact() {
               </div>
             </div>
           </div>
-          
+
           {/* Sponsors */}
           <div>
             <h3 className="text-2xl font-bold mb-6">Our Sponsors & Partners</h3>
@@ -129,7 +129,7 @@ export default function Contact() {
                 </Card>
               ))}
             </div>
-            
+
             <div className="mt-8">
               <Button variant="tech" className="w-full">
                 Become a Sponsor
@@ -137,7 +137,7 @@ export default function Contact() {
             </div>
           </div>
         </div>
-        
+
         {/* Newsletter */}
         <div className="mt-16 text-center">
           <Card className="max-w-md mx-auto bg-tech-glow border-tech-blue/30">
@@ -147,8 +147,8 @@ export default function Contact() {
             </CardHeader>
             <CardContent>
               <div className="flex gap-2">
-                <input 
-                  type="email" 
+                <input
+                  type="email"
                   placeholder="Enter your email"
                   className="flex-1 px-3 py-2 bg-background/50 border border-border rounded-md text-sm"
                 />
